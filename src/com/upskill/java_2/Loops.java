@@ -58,13 +58,13 @@ public static void practiseNestedForLoop(){  //Nested Loop - Loop inside another
 		}//in a multiplication table, there are two number i and j two dimensions. first i increases and then j increases. 
 		System.out.println(" ");
 	}
-	public static void practiseForEachLoop(){ 	//It is similar to forloop but 
+	 /*public static practiseForEachLoop(){ 	//It is similar to forloop but 
 		//This is for java vollection.	//For Each Loop - each loop through each element
-		int[] ageHulk = new int[]{25,30,35,38,43,28}			//Initialise array
-		for(int age: ageHulk){
-			System.out.println("For Each Loops number =" + age);
-			
+		//int[] ageHulk = new int[]{25,30,35,38,43,28}			//Initialise array
+		//for(int age: ageHulk){
+			//System.out.println("For Each Loops number =" + age);
+			*/
 		}
-	}
+	//}
 }
-}
+//}
